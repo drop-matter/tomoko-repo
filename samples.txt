@@ -9,3 +9,5 @@ edit @ branch "first"
 edit @ branch "first-1"
 
 edit @ branch "second"
+
+edit for remote github-ssh
